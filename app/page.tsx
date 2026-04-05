@@ -4,7 +4,7 @@ import Link from "next/link"
 import Image from "next/image"
 import { ArrowUpRight, Play } from "lucide-react"
 
-const CAL_LINK = "https://cal.com/nadavbenedekxeinst/social-media-stratagey-and-plan"
+const CAL_LINK = "https://cal.com/xeinst/quick-chat"
 
 export default function Home() {
   return (

@@ -5,7 +5,7 @@ import Image from "next/image"
 import { usePathname } from "next/navigation"
 import { ArrowUpRight } from "lucide-react"
 
-const CAL_LINK = "https://cal.com/nadavbenedekxeinst/social-media-stratagey-and-plan"
+const CAL_LINK = "https://cal.com/xeinst/quick-chat"
 
 export function Navigation() {
   const pathname = usePathname()

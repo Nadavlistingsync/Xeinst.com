@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   },
 }
 
-const CAL_LINK = "https://cal.com/nadavbenedekxeinst/social-media-stratagey-and-plan"
+const CAL_LINK = "https://cal.com/xeinst/quick-chat"
 
 export default function Contact() {
   return (
