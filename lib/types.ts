@@ -47,6 +47,8 @@ export type Campaign = {
   comments?: number;
   engagementRate?: number;
   receiptId?: string;
+  tiktokPostId?: string;
+  publishMessage?: string;
 };
 
 export type CheckoutResponse = {
